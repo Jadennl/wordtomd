@@ -36,5 +36,4 @@ Converting a Word document into Markdown is easier than it seems. With a few com
 6. Clean up the text, following the [Markdown Guidelines](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md033)
 7. Save your edited document.
 
----
 {% include footer.md %}

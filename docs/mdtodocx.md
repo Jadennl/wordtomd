@@ -36,5 +36,4 @@ You can convert a Markdown file into a Word document easily. After following the
 6. Clean up the file according to the design you want.
 7. Save your edited document.
 
----
 {% include footer.md %}

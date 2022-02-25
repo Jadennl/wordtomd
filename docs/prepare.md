@@ -31,5 +31,4 @@ While Pandoc can easily convert any Word document into a Markdown file, there ar
 9. Repeat these steps for every sub-section below, going up a header level each time.
 10. Save your edited document.
 
----
 {% include footer.md %}

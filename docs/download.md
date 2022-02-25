@@ -35,5 +35,4 @@ Pandoc is a program without a visual interface, meaning that it is used via the 
 9. Type `pandoc -v` into the command line. If there are no errors displayed, then you have succesfully installed pandoc.  
 *Note:* If your command line is unable to find the program, make sure it was typed in correctly, and reinstall if needed.
 
----
 {% include footer.md %}
